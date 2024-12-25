@@ -1,5 +1,5 @@
-tunnel: 80d6c991-909b-4706-997f-1b8369386ac9 # 替换为你的隧道 ID
-credentials-file: /kaggle/working/cloudflared/cert.pem # 确保路径正确
+tunnel: 94bf36f8-ff4e-4fd1-9456-6c4836789c75
+credentials-file: /kaggle/working/cloudflared/94bf36f8-ff4e-4fd1-9456-6c4836789c75.json
 
 ingress:
   - hostname: juesire.cfargotunnel.com  # 你在 Cloudflare 上的公共主机名
